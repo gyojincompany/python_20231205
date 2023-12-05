@@ -30,3 +30,4 @@ def sum(a: int, b: int) -> int:
 
 result = sum(10, 20.5)
 
+print(result)
